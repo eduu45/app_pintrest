@@ -1,13 +1,16 @@
-import "../estilos/registro.css"
-import "../app/layout.js"
+import "@/estilos/registro.css"
+import "@/app/layout.tsx"
+import avatar from '../img/logo.png'
+import Image from "next/image";
 
 
 function Registro() {
   return (
+    <div className="body">
 <div class="form-structor">
 	<div class="signup">
 		<div>
-			<img className="avatar" src="../img/logo.png" />
+			<Image className="avatar" src={avatar} />
         </div>
 		<h2 class="form-title" id="signup"><span></span>REGISTRATE</h2>
 		<div class="form-holder">
@@ -28,6 +31,8 @@ function Registro() {
 		</div>
 	</div>
 </div>
+    </div>
+
 
 
 );
