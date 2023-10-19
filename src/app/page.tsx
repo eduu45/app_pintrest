@@ -1,10 +1,10 @@
-import Share from "@/app/Components/Share";
-import Head from "@/app/Components/Head";
+import Nav from "@/app/Components/Nav";
+import Body from "@/app/Components/Body";
 export default function home(){
   return(
       <main className="">
-          <Head/>
-          <Share/>
+         <Nav/>
+          <Body/>
       </main>
   )
 }
