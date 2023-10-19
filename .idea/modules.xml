@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/app_pinterest.iml" filepath="$PROJECT_DIR$/.idea/app_pinterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/app_pintrest.iml" filepath="$PROJECT_DIR$/.idea/app_pintrest.iml" />
     </modules>
   </component>
 </project>
