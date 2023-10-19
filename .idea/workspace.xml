@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09fad29e-0f62-45c9-ac6f-07760278f68d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Images/babyyoda.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/edificio.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/fondopatitos.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/guaguau.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/logopinterest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/pastel.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/pato.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/pollo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/ranita.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Images/usuario.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Components/Body.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Components/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Styles/StylesBody.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Styles/StylesNav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/app_pinterest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="971da5bb-c78c-4b7f-993c-1783c8fadaac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,21 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Julio Alvarez/Documents/app_pintrest/public/Images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\eduar\\WebstormProjects\\app_pintrest\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Julio Alvarez/Documents/app_pintrest/public/Images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\eduar\\WebstormProjects\\app_pintrest\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Julio Alvarez\Documents\app_pintrest\public\Images" />
