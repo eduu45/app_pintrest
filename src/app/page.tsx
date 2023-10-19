@@ -1,11 +1,10 @@
-import Nav from '@/app/Components/Nav';
-import Body from "@/app/Components/Body";
-
-export default function home () {
+import Share from "@/app/Components/Share";
+import Head from "@/app/Components/Head";
+export default function home(){
   return(
-      <main className="flex">
-        <Nav/>
-        <Body/>
+      <main className="">
+          <Head/>
+          <Share/>
       </main>
   )
 }
